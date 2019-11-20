@@ -1,0 +1,6 @@
+[submodule "DungeonHunter/vendor/SFML"]
+	path = DungeonHunter/vendor/SFML
+	url = git@github.com:Rex-22/SFML.git
+[submodule "DungeonHunter\\vendor\\tmxlite"]
+	path = DungeonHunter\\vendor\\tmxlite
+	url = git@github.com:Rex-22/tmxlite.git
