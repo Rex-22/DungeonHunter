@@ -1,6 +1,6 @@
 workspace "DungeonHunter"
     architecture "x64"
-	startproject "Sandbox"
+	startproject "DungeonHunter"
     configurations { "Debug", "Release", "Dist" }
 	flags { "MultiProcessorCompile" }
 	
