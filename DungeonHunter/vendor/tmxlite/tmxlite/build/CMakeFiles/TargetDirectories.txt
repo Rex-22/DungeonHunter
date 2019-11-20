@@ -1,4 +1,0 @@
-D:/deps/tmxlite/tmxlite/build/CMakeFiles/tmxlite.dir
-D:/deps/tmxlite/tmxlite/build/CMakeFiles/INSTALL.dir
-D:/deps/tmxlite/tmxlite/build/CMakeFiles/ALL_BUILD.dir
-D:/deps/tmxlite/tmxlite/build/CMakeFiles/ZERO_CHECK.dir
